@@ -1,9 +1,38 @@
 html{
     background-color: black;
-    color: lightpink;
+    color: darkviolet;
     font-family: 'Lilita One';
     text-align: center
 }
 
 #joshaan{
-    border: 10px solid darkkha
+    border: 10px solid darkviolet;
+
+}
+
+#donkey{
+    border: 10px solid darkviolet;
+
+}
+
+img{
+    height: 800px;
+    width: 600px
+}
+
+
+.container {
+display: flex;
+border: 10px solid darkviolet;
+}
+.container img {
+width: 50%;
+}
+
+#a{
+    text-align:left;
+
+}
+#b{
+    text-align: right;
+}
